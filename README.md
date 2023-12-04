@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Here is the languages i love to work with :</h3>
+<h3 align="center">💻 Here is my Tech Stack :</h3>
 
 ###
 
