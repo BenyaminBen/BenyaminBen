@@ -21,13 +21,3 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
 </div>
-
-###
-
-<img align="right" height="250" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47li2u9i118kegvwmqv6hrl2ty26uaevd52qoo8s3g&ep=v1_gifs_related&rid=giphy.gif&ct=g""  />
-
-###
-
-<img src="https://raw.githubusercontent.com/BenyaminBen/BenyaminBen/output/snake.svg" alt="Snake animation" />
-
-###
