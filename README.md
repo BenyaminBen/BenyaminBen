@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋!<br> My name is Ben and i'm a 27 years old JS developeur, from France 🇫🇷</h1>
+<h1 align="center">Hi 👋!<br> My name is Ben and i'm a 27 years old JS developeur, from Grenoble, France.</h1>
 
 ###
 
-<h3 align="center">💻 Here is my Tech Stack :</h3>
+<h3 align="center">💻Here is my Tech Stack :</h3>
 
 ###
 
