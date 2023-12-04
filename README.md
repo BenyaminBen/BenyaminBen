@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋!<br>My name is Ben and i'm a 27 years old JS developeur, from France 🇫🇷</h1>
+<h1 align="center">Hi 👋!<br>My name is Ben and i'm a 27 years old JS developeur in Grenoble, France🇫🇷</h1>
 
 ###
-
+<h2 align="center"> 💻 My Tech Stack :</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
