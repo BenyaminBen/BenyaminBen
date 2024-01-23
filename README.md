@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋!<br> My name is Ben and i'm a 27 years old JS developeur, from Grenoble, France.</h1>
+<h1 align="center">Hi 👋!<br> My name is Ben and i'm a 27 years old JS developer, from Grenoble, France.</h1>
 
 ###
 
