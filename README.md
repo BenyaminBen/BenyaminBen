@@ -28,6 +28,8 @@
   <img width="12" />
 </div>
 
+<h3 align="center">I'm currently learning C# & ASP.NET</h3>
+
 ###
 
 
