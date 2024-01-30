@@ -30,6 +30,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BenyaminBen/BenyaminBen/output/snake.svg" alt="Snake animation" />
 
-###
