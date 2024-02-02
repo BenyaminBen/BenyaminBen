@@ -32,10 +32,9 @@
 </div>
 
 <div align="center"> 
-<h3>I'm currently learning</h3>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+<h3>I'm currently practicing</h3>
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
 </div>
 
 ###
