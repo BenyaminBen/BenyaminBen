@@ -32,9 +32,8 @@
 </div>
 
 <div align="center"> 
-<h3>I'm currently practicing</h3>
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" height="40" />
-  <img width="12" />
+<h3>I'm currently working on a Next.js E-commerce website </h3>
+ <h1>note to myself : Never ever, use PayloadCMS in any case ever again</h1>
 </div>
 
 ###
