@@ -24,7 +24,10 @@
 </div>
 
 <div align="center"> 
-<h4>I'm currently working on a Next.js E-commerce website </h4>
+  <br/>
+  <h2>Contact :</h2>
+<h4>💌 ben@otterfoundry.fr</h4>
+<h4>Discord : ben_beny</h4>
 </div>
 
 ###
