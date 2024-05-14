@@ -25,7 +25,7 @@
 
 <div align="center"> 
   <br/>
-  <h3>Contact me at:</h3>
+  <h3>Contact me at :</h3>
 <h4>💌 ben@otterfoundry.fr</h4>
 <h4>Discord : ben_beny</h4>
 </div>
