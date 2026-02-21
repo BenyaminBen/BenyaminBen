@@ -1,39 +1,63 @@
-<h1 align="center">Hi 👋!<br> My name is Ben and i'm a 30 y/o IBMI and Web/mobile Developer<br/>based in Grenoble, France.</h1>
+# Hey, I'm Ben                                                                                   
+                                                                                                 
+  **Full-Stack Developer** | IBM i (AS/400) | Web | Mobile                                         
+                                                            
+  I build modern applications on legacy and cutting-edge platforms. From RPG FREE on IBM i to React SPAs and mobile apps. </br>
+  I bridge the gap between enterprise systems and modern interfaces.       
 
-###
+  ---
+  ### What I work with
+  | Backend | Frontend | Mobile | Database |
+  |---------|----------|--------|----------|
+  | RPG FREE | React | React Native | SQL (DB2) |
+  | Java | Angular | TypeScript | IBM i DB2 |
+  | Node.js | TypeScript | | PostgreSQL |
+  | Express | HTML/CSS | | |
 
-<h3 align="center">💻 Tech Stack</h3>
+  ### Tech Stack
 
-###
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![IBM i](https://img.shields.io/badge/IBM%20i-052FAD?style=flat-square&logo=ibm&logoColor=white)
+  ![RPG FREE](https://img.shields.io/badge/RPG%20FREE-052FAD?style=flat-square&logo=ibm&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL%20/%20DB2-003545?style=flat-square&logo=ibm&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-</div>
+  ### IBM i / AS400
 
-<div align="center"> 
-  <br/>
-  <h3>Contact me at :</h3>
-<h4>💌 ben@otterfoundry.fr</h4>
-<h4>Discord : ben_beny</h4>
-</div>
+  I specialize in modernizing IBM i environments - writing RPG FREE, embedded SQL, and building web frontends that talk to AS/400 backends. 
+  If you think green screens are dead, you haven't seen what I build with them.
 
-###
+  ### Web & Mobile
+
+  Full-stack applications from design to deployment. React and Angular on the frontend, Node.js and Java on the backend, TypeScript everywhere. I build responsive interfaces, REST APIs, real-time
+  WebSocket systems, and mobile apps with React Native. Docker containers, CI/CD pipelines, cloud
+  hosting - the full picture, not just the UI.
+
+  ### AI-Powered Tools                                                                             
+                                                                                                   
+  I build private, self-hosted tools that leverage AI without compromising data confidentiality.   
+  Custom development environments with Claude Code integration, MCP (Model Context Protocol)       
+  servers for secure context sharing, and AI-augmented workflows where sensitive data never leaves 
+  controlled infrastructure. Every tool I ship is designed with one rule: your data stays yours.
+  
+  ### Currently
+
+  - Modernizing IBM i applications with React/Angular frontends
+  - Building Web and Mobile Apps
+  - Exploring AI-assisted development workflows
+  - Building MCPs and AI powered Tools
+
+  ---
+
+  <p align="center">
+    <i>"Modern code on legacy iron."</i>
+  </p>
+
+  ---
+  ### Discord : ben_beny
 
 
