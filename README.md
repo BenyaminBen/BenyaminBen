@@ -1,6 +1,6 @@
 # Hey, I'm Ben                                                                                   
                                                                                                  
-  **Full-Stack Developer** | IBM i (AS/400) | Web | Mobile                                         
+  **Full-Stack Developer** | IBM i (AS/400) | Web | Mobile                                          
                                                             
   I build modern applications on legacy and cutting-edge platforms. From RPG FREE on IBM i to React SPAs and mobile apps. </br>
   I bridge the gap between enterprise systems and modern interfaces.       
@@ -46,9 +46,9 @@
   
   ### Currently
 
+  - Creating VSCode extensions for IBMI (DSPF interactive editor, optimized snippets, Doc...)
   - Modernizing IBM i applications with React/Angular frontends
   - Building Web and Mobile Apps
-  - Exploring AI-assisted development workflows
   - Building MCPs and AI powered Tools
 
   ---
