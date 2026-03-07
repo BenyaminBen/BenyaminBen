@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** | IBM i (AS/400) | Web | Mobile | VSCode Extensions
 
-I build modern applications on legacy and cutting-edge platforms. From RPG FREE on IBM i to React SPAs, mobile apps, and developer tools.</br>
+I build modern applications on legacy and cutting-edge platforms. From RPG FREE on IBM i to React App, mobile apps, and developer tools.</br>
 I bridge the gap between enterprise systems and modern interfaces.
 
 ---
@@ -34,10 +34,11 @@ I bridge the gap between enterprise systems and modern interfaces.
 
 I build specialized extensions for IBM i development:
 
-- **DSPF Visual Editor** — A visual editor for IBM i DDS Display Files.
-- **TN5250 Emulator** — A native TN5250/TN5250e terminal emulator running inside VSCode, powered by a Rust core.
-- **RPG Free Language Support** — Syntax highlighting, hover documentation, and snippets for RPG Free / RPGLE on IBM i.
-
+- **DSPF Visual Editor** — A visual editor for IBM i DDS Display Files with all Rdi's features and more !
+- **TN5250 Emulator** — A native TN5250 terminal emulator running inside VSCode, powered by a Rust core ISO with ACS and more !
+- **RPG Free / DDS / CL Language Support** — Syntax highlighting, hover documentation, and snippets for RPG Free / RPGLE on IBM i and Code checker.
+- **More to come**
+  
 ### IBM i / AS400
 
 I specialize in modernizing IBM i environments — writing RPG FREE, embedded SQL, and building web frontends that talk to AS/400 backends.
@@ -51,14 +52,14 @@ Full-stack applications from design to deployment. React and Angular on the fron
 
 I use Rust where performance and reliability matter — native addons, async networking, and system-level components. When TypeScript isn't fast enough, Rust fills the gap.
 
-### AI-Powered Tools
+### AI-Powered Tools : Compliance first
 
 I build private, self-hosted tools that leverage AI without compromising data confidentiality.
 Custom development environments with Claude Code integration, MCP (Model Context Protocol) servers for secure context sharing, and AI-augmented workflows where sensitive data never leaves controlled infrastructure. Every tool I ship is designed with one rule: your data stays yours.
 
 ### Currently
 
-- Building VSCode extensions for IBM i (DSPF visual editor, TN5250 terminal emulator, RPG Free language support)
+- Building VSCode extensions for IBM i (DSPF visual editor, TN5250 terminal emulator, RPG Free language support, ..)
 - Writing Rust for high-performance components
 - Modernizing IBM i applications with React/Angular frontends
 - Building Web and Mobile Apps
@@ -67,7 +68,7 @@ Custom development environments with Claude Code integration, MCP (Model Context
 ---
 
 <p align="center">
-  <i>"Modern code on legacy iron."</i>
+  <i>"Modern code on legacy systems."</i>
 </p>
 
 ---
