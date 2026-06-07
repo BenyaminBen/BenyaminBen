@@ -1,6 +1,6 @@
 # Hey, I'm Ben
 
-**Full-Stack Developer** | IBM i (AS/400) | Web | Mobile | VSCode Extensions
+**Full-Stack Developer** | IBM i (AS/400) | Web | Mobile | Toolchains
 
 I build modern applications on legacy and cutting-edge platforms. From RPG FREE on IBM i to React App, mobile apps, and developer tools.</br>
 I bridge the gap between enterprise systems and modern interfaces.
@@ -32,7 +32,7 @@ I bridge the gap between enterprise systems and modern interfaces.
 
 ### VSCode Extensions
 
-I build specialized extensions for IBM i development:
+I built specialized extensions for Rust and IBM i development:
 
 - **DSPF Visual Editor** — A visual editor for IBM i DDS Display Files with all Rdi's features and more !
 - **TN5250 Emulator** — A native TN5250 terminal emulator running inside VSCode, powered by a Rust core ISO with ACS and more !
@@ -50,7 +50,7 @@ Full-stack applications from design to deployment. React and Angular on the fron
 
 ### Rust
 
-I use Rust where performance and reliability matter — native addons, async networking, and system-level components. When TypeScript isn't fast enough, Rust fills the gap.
+I use Rust where performance and reliability matter, native addons, async networking, and system-level components. When TypeScript isn't fast enough, Rust fills the gap.
 
 ### AI-Powered Tools : Compliance first
 
@@ -59,12 +59,13 @@ Custom development environments with Claude Code integration, MCP (Model Context
 
 ### Currently
 
-- Building VSCode extensions for IBM i (DSPF visual editor, TN5250 terminal emulator, RPG Free language support, ..)
+- Building VSCode extensions for IBM i (Carbon/400 - RPG III Converter - IBMI Documentation Builder,....)
 - Writing Rust for high-performance components
 - Modernizing IBM i applications with React/Angular frontends
 - Building Web and Mobile Apps
 - Building MCP servers and AI-powered tools
-
+- Rust advanced protocols
+  
 ---
 
 <p align="center">
